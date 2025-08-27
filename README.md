@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Huy Ngo - AI Security Engineer
 
-### 🌐 Cloud Security Engineer | 🤖 AI Agent Builder | 🔐 AI Security Explorer ###
+### 🌐 Cloud Security Engineer | 🤖 AI Agent Builder |  🛡️ GIAC x8 ###
 
-🛡️ **Building the future of AI-powered cybersecurity** with 8 GIAC certifications and hands-on cloud security experience
+🛡️ **Building the future of AI-powered cybersecurity** 
 
 🔭 **Current Focus:** 
 🔥 AI Security Agent Engineering - developing autonomous SOC triage, threat intelligence, and incident response systems
-
-📍 San Jose, CA | 🔗 [LinkedIn](https://www.linkedin.com/in/huydinhngo)
 
 ---
 
 ## 🚀 What I’m currently working on 🌱
 
 ### AI Cloud Security Agent Bootcamp (In Progress)
-A comprehensive 12-month journey building production-ready AI security agents:
+A comprehensive 12-15 month journey building production-ready AI security agents:
 
 ## 🚀 What I'm Building
 
@@ -24,6 +22,7 @@ A comprehensive 12-month journey building production-ready AI security agents:
 - 🔧 **CloudSec Remediator** - AWS misconfiguration detection & auto-remediation
 - 📊 **Multi-Agent SOC Orchestration** - Multi-agent SOC pipeline (CrewAI/AutoGen) coordinated workflows
 - 🚨 **IR Runbook Generator** - Timeline creation from log analysis (Claude + FastAPI + JIRA integration)
+- 🎯 **SOC Co-Pilot (Capstone)** – Integrated platform with MCP tools, Docker deployment, and multi-LLM backend.
 
 ### ⚡ Tech Stack & Tools
 **AI/ML:** LangChain, CrewAI, AutoGen, Hugging Face, Pinecone/Weaviate  
@@ -31,7 +30,6 @@ A comprehensive 12-month journey building production-ready AI security agents:
 **Backend:** Python, FastAPI, Docker, AWS ECS, Lambda  
 **Governance:** NIST AI RMF, OWASP LLM Top 10, MITRE ATLAS
 
-## 📈 GitHub Stats
 
 ## 🏆 Recent Achievements
 - 🎯 BlackHat 2025: Building LLM-based AI Agents for Security - Breaking GenAI Offensive Security
@@ -39,3 +37,4 @@ A comprehensive 12-month journey building production-ready AI security agents:
 - 🎓 SANS MSISE: Information Security Engineering
 
 
+📍 Let's connect: 🔗 [LinkedIn](https://www.linkedin.com/in/huydinhngo)
