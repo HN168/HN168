@@ -13,7 +13,7 @@
 
 ## 🚀 What I’m currently working on 🌱
 
-### AI Security Agent Bootcamp (In Progress)
+### AI Cloud Security Agent Bootcamp (In Progress)
 A comprehensive 12-month journey building production-ready AI security agents:
 
 ## 🚀 What I'm Building
