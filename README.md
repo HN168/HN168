@@ -39,7 +39,7 @@ Containerized SOC platform combining enrichment, intel, remediation, and IR auto
 
 🏆 Recent Highlights
 
-BlackHat 2025 – Building LLM-based AI Agents for Security
+BlackHat 2025 – Building LLM-based AI Agents for Security | Breaking GenAI - Offensive AI
 
 DEF CON 2025 – AI SecureOps: Attacking & Defending AI
 
