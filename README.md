@@ -1,19 +1,17 @@
-👋 Hi, I'm Huy Ngo
+👋 Hi, I'm Huy Ngo - AI Security & Cloud Security 
 
-AI Security & Cloud Security Engineer
+🌐 Cloud Security Engineering | 🤖 AI Agent Engineering | 🛡️ GIAC x8, CISSP, AWS SAA
 
 ---
-
-🌐 Cloud Security | 🤖 AI Agent Engineering | 🛡️ GIAC x8, CISSP, AWS SAA
 
 🔭 Current Focus
 
 Exploring AI-driven security automation to improve SOC efficiency, detection accuracy, and compliance readiness.
 
 
-🚀 Projects (Bootcamp Roadmap)
+🚀 Projects 
 
-- AWS Security Intelligence Enhancer (In Progress)
+- SOC Alert Enrichment System
 Enrichment pipeline for AWS GuardDuty alerts using Security Hub, VirusTotal, and Slack/Jira integrations. Target: reduce triage time from ~15 minutes to <5 minutes.
 
 - Cloud AI Security Assessment Toolkit (Research)
@@ -29,13 +27,13 @@ Containerized SOC platform combining enrichment, intel, remediation, and IR auto
 
 ⚡ Tech Stack & Tools
 
-AI/ML: LangChain, CrewAI, AutoGen, Hugging Face, Pinecone/Weaviate
+  AI/ML: LangChain, CrewAI, AutoGen, Hugging Face, Pinecone/Weaviate
 
-Cloud Security: AWS GuardDuty, Security Hub, IAM Analyzer, VirusTotal API
+  Cloud Security: AWS GuardDuty, Security Hub, IAM Analyzer, VirusTotal API
 
-Automation: Python, FastAPI, Docker, AWS ECS, Lambda
+  Automation: Python, FastAPI, Docker, AWS ECS, Lambda
 
-Governance & Frameworks: NIST AI RMF, OWASP LLM Top 10, MITRE ATT&CK/ATLAS
+  Governance & Frameworks: NIST AI RMF, OWASP LLM Top 10, MITRE ATT&CK/ATLAS
 
 ---
 
