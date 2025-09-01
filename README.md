@@ -12,7 +12,7 @@ Exploring AI-driven security automation to improve SOC efficiency, detection acc
 🚀 Projects 
 
 - SOC Alert Enrichment System
-Enrichment pipeline for AWS GuardDuty alerts using Security Hub, VirusTotal, and Slack/Jira integrations. Target: reduce triage time from ~15 minutes to <5 minutes.
+Pipeline for AWS GuardDuty alerts using Security Hub, VirusTotal, and Slack/Jira integrations. Target: reduce triage time from ~15 minutes to <5 minutes.
 
 - Cloud AI Security Assessment Toolkit (Research)
 PyRIT-based testing methodology for AWS Bedrock and Azure OpenAI, aligned to OWASP LLM Top 10.
